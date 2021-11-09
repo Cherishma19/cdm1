@@ -1,0 +1,117 @@
+{
+    "CountryID": null,
+    "Origin": "PegaSample",
+    "ParentID": null,
+    "ContactMethodsList": [
+        {
+            "TypeID": "Work",
+            "AllowMarketing": false,
+            "IsPrimary": true,
+            "PhoneNumber": "878-678-2121",
+            "ContactMethodTypeID": "Phone"
+        },
+        {
+            "TypeID": "Personal",
+            "AllowMarketing": false,
+            "Email": "acme@sample.com",
+            "IsPrimary": true,
+            "ContactMethodTypeID": "Email"
+        },
+        {
+            "CountryID": "USA",
+            "TypeID": "Personal",
+            "AllowMarketing": false,
+            "PostalCodeID": "02108",
+            "IsPrimary": true,
+            "AddressSummary": "51 MA Covers Boston Massachusetts USA 02108",
+            "RegionID": "Massachusetts",
+            "City": "Boston",
+            "Line1": "51",
+            "Line2": "MA Covers",
+            "ContactMethodTypeID": "Address"
+        },
+        {
+            "TypeID": "Personal",
+            "AllowMarketing": false,
+            "FaxNumber": "3232",
+            "IsPrimary": true,
+            "ContactMethodTypeID": "Fax"
+        }
+    ],
+    "RegionCode": null,
+    "BusinessUnitID": null,
+    "DoingBusinessAs": null,
+    "LifetimeValue": null,
+    "Name": "Tata Consultany",
+    "Industry": null,
+    "StartDate": null,
+    "LifetimeValueLevel": null,
+    "PhoneList": [
+        {
+            "TypeID": "Work",
+            "AllowMarketing": false,
+            "IsPrimary": true,
+            "PhoneNumber": "878-678-2121",
+            "ContactMethodTypeID": "Phone"
+        }
+    ],
+    "NextStatementDate": null,
+    "Currency": null,
+    "CategoryID": "Business",
+    "Status": null,
+    "SubType": null,
+    "LastPaymentDate": null,
+    "pzInsKey": "COMMON-LDM-ENTITY-ACCOUNT 1408998369490302",
+    "TaxID": null,
+    "LastStatementAmount": null,
+    "CurrentDueAmount": null,
+    "AccountValue": null,
+    "Revenue": 0,
+    "LastName": null,
+    "LastStatementDate": null,
+    "Description": "Tata Consultancy",
+    "RelationshipTypeID": "Partner",
+    "IndustryID": "Core",
+    "Rating": null,
+    "Website": null,
+    "EmployeeCount": null,
+    "pyID": "Acc-74",
+    "DueDate": null,
+    "SubStatus": null,
+    "AddressList": [
+        {
+            "CountryID": "USA",
+            "TypeID": "Personal",
+            "AllowMarketing": false,
+            "PostalCodeID": "02108",
+            "IsPrimary": true,
+            "AddressSummary": "51 MA Covers Boston Massachusetts USA 02108",
+            "RegionID": "Massachusetts",
+            "City": "Boston",
+            "Line1": "51",
+            "Line2": "MA Covers",
+            "ContactMethodTypeID": "Address"
+        }
+    ],
+    "ChurnRisk": null,
+    "AccountID": "1408998369490302",
+    "PaymentMethodsList": null,
+    "FirstName": null,
+    "Ticker": null,
+    "EmailList": [
+        {
+            "TypeID": "Personal",
+            "AllowMarketing": false,
+            "Email": "acme@sample.com",
+            "IsPrimary": true,
+            "ContactMethodTypeID": "Email"
+        }
+    ],
+    "MiddleName": null,
+    "EndDate": null,
+    "Type": null,
+    "CurrentBalanceAmount": null,
+    "LastPaymentAmount": null,
+    "IsTarget": false,
+    "SampleID": "S1"
+}
